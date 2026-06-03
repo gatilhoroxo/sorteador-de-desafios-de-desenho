@@ -1,0 +1,17 @@
+Tema: {tema}
+Universo: {universo}
+Local: {local}
+Clima: {clima}
+Elemento: {elemento}
+Personagem: {personagem}
+Mistério: {misterio}
+Estilo Visual: {estilo}
+Restrições Criativas: {restricoes}
+
+Profissão: {profissao}
+Emoção: {emocao}
+Objetivo: {objetivo}
+Conflito: {conflito}
+Elemento Visual: {elemento}
+Detalhe Visual: {detalhe}
+Pergunta: {pergunta}

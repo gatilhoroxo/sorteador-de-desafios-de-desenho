@@ -25,7 +25,6 @@ Uma pequena ferramenta para me ajudar a desenhar com mais criatividade
     - Emoção: Como se sente?
     - Objetivo: O que quer?
     - Conflito: O que impede?
-    - Elemento visual: O que aparece?
     - Detalhe visual: O que chama atenção?
     - Pergunta: O que faz refletir?
 ### 2. Definição dos Modos de Inspiração

@@ -1,0 +1,15 @@
+Padeiro
+Marinheiro
+Professor
+Militar
+Cozinheiro
+Guarda
+Cantor
+Desenhista
+Cartógrafo
+Pedreiro
+Escribão
+Faxineiro
+Motorista
+Apresentador
+Terapeuta

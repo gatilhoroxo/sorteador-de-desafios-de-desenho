@@ -1,0 +1,1 @@
+[universo,local,clima,estilo]: Em {universo}, perto de {local}, parece estar {clima} e bastante {estilo}.

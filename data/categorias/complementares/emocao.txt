@@ -1,0 +1,6 @@
+triste
+feliz
+alegre
+cansado
+irritado
+apático

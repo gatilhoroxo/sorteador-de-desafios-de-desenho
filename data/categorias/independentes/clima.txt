@@ -1,0 +1,4 @@
+quente
+frio
+seco
+úmido
