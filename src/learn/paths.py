@@ -2,7 +2,7 @@ from typing import Final
 from pathlib import Path
 
 # folder path categorias independentes
-FPATH_CI: Final = "../../data/categorias/independentes"
+FPATH_CI: Final = "../data/categorias/independentes"
 
 # lista com as categorias independentes
 Lci = [

@@ -1,4 +1,4 @@
-import paths as p
+# files related
 
 def readfile(path: str) -> str:
     with open(path, "r", encoding="utf-8") as arq:
