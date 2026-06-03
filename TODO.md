@@ -1,0 +1,9 @@
+- [x] Ler um arquivo
+- [x] Sortear uma categoria
+- [x] Ler qualquer categoria
+- [x] Escolha de uma categoria pelo usuário
+- [ ] Ler mais de uma opção do usuário
+- [ ] Mostrar os sorteios das opções dos usuários
+- [ ] Gerar um contexto bruto
+- [ ] Adaptar para um dos modelos de contexto
+- [ ] Aplicar o modelo a partir das escolhas do usuário
