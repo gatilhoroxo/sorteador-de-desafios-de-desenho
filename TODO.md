@@ -2,7 +2,8 @@
 - [x] Sortear uma categoria
 - [x] Ler qualquer categoria
 - [x] Escolha de uma categoria pelo usuário
-- [ ] Ler mais de uma opção do usuário
+- [x] Ler mais de uma opção do usuário
+- [ ] Ler uma quantidade arbitrária de escolhas do usuário
 - [ ] Mostrar os sorteios das opções dos usuários
 - [ ] Gerar um contexto bruto
 - [ ] Adaptar para um dos modelos de contexto
